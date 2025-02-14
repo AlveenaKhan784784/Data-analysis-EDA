@@ -19,4 +19,7 @@ The primary objectives include handling missing values, addressing outliers, and
 ## Exploratory Data Analysis (EDA)
 - Conduct EDA to visualize and understand relationships between features. Key analyses include:
 - **Correlation Matrix**: Analyzing the correlation between numerical features using a heatmap to identify strong relationships with the target variable.
-  
+
+## Conclusion
+This project successfully handled missing values in the 'Income' column using the median, capped outliers through the IQR method, and performed exploratory data analysis to visualize relationships within the dataset. These analyses provide valuable insights into customer behaviors, which can inform future marketing strategies and decision-making.
+
